@@ -1,0 +1,6 @@
+select dateadd(dd,10,getdate())
+select dateadd(dd,-10,getdate())
+select dateadd(mm,10,getdate())
+select dateadd(mm,-10,getdate())
+select dateadd(yyyy,10,getdate())
+select dateadd(yyyy,-10,getdate())

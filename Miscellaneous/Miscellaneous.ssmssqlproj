@@ -1,0 +1,646 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Miscellaneous">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="COGNINE-62\SQLEXPRESS:COGNINE-62\pc">
+          <Created>2021-05-16T22:34:42.6266886+05:30</Created>
+          <Type>SQL</Type>
+          <Server>COGNINE-62\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="arrange data based on total marks desc,m desc,p desc.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>arrange data based on total marks desc,m desc,p desc.sql</FullPath>
+        </FileNode>
+        <FileNode Name="calculate ranks of students based on their avg,m,p.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>calculate ranks of students based on their avg,m,p.sql</FullPath>
+        </FileNode>
+        <FileNode Name="change datatype of deptno to int.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>change datatype of deptno to int.sql</FullPath>
+        </FileNode>
+        <FileNode Name="complete emp table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>complete emp table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="conversion function cast.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>conversion function cast.sql</FullPath>
+        </FileNode>
+        <FileNode Name="conversion function convert.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>conversion function convert.sql</FullPath>
+        </FileNode>
+        <FileNode Name="convert names to upper case in table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>convert names to upper case in table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="copy emp tabel information into emp2 table and display.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>copy emp tabel information into emp2 table and display.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create emp table in kotturuvamshi database.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>create emp table in kotturuvamshi database.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create emp table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>create emp table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create,insert,display cust table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>create,insert,display cust table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="crudemp table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>crudemp table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="database security.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>database security.sql</FullPath>
+        </FileNode>
+        <FileNode Name="dateadd.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>dateadd.sql</FullPath>
+        </FileNode>
+        <FileNode Name="datename.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>datename.sql</FullPath>
+        </FileNode>
+        <FileNode Name="datepart.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>datepart.sql</FullPath>
+        </FileNode>
+        <FileNode Name="delete employee whose empno=105.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>delete employee whose empno=105.sql</FullPath>
+        </FileNode>
+        <FileNode Name="delete employees name starts with s.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>delete employees name starts with s.sql</FullPath>
+        </FileNode>
+        <FileNode Name="delete sal data of empno 103 instead of complete row.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>delete sal data of empno 103 instead of complete row.sql</FullPath>
+        </FileNode>
+        <FileNode Name="design1 student1 table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>design1 student1 table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="display average sal of emp table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>display average sal of emp table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="display deptwise total sal.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>display deptwise total sal.sql</FullPath>
+        </FileNode>
+        <FileNode Name="display employee name and annual sal from emp table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>display employee name and annual sal from emp table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="display employee name and sal from emp table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>display employee name and sal from emp table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="display employees name end with L.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>display employees name end with L.sql</FullPath>
+        </FileNode>
+        <FileNode Name="display employees name starts with r.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>display employees name starts with r.sql</FullPath>
+        </FileNode>
+        <FileNode Name="display ename, sal in lowercase.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>display ename, sal in lowercase.sql</FullPath>
+        </FileNode>
+        <FileNode Name="display ename,experience.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>display ename,experience.sql</FullPath>
+        </FileNode>
+        <FileNode Name="display ename,hiredate,dor.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>display ename,hiredate,dor.sql</FullPath>
+        </FileNode>
+        <FileNode Name="display ename,hiredate,experience in m years and n months.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>display ename,hiredate,experience in m years and n months.sql</FullPath>
+        </FileNode>
+        <FileNode Name="display ename,hiredate,hiredate in mmddyyyy format.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>display ename,hiredate,hiredate in mmddyyyy format.sql</FullPath>
+        </FileNode>
+        <FileNode Name="display ename,sal(show in stars).sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>display ename,sal(show in stars).sql</FullPath>
+        </FileNode>
+        <FileNode Name="display ename,sal,comm,if comm,sal are null display as absent.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>display ename,sal,comm,if comm,sal are null display as absent.sql</FullPath>
+        </FileNode>
+        <FileNode Name="display ename,sal,comm,totsal.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>display ename,sal,comm,totsal.sql</FullPath>
+        </FileNode>
+        <FileNode Name="display ename,sal,hra,da,tax,totsal.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>display ename,sal,hra,da,tax,totsal.sql</FullPath>
+        </FileNode>
+        <FileNode Name="display format as ename joined on hiredate.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>display format as ename joined on hiredate.sql</FullPath>
+        </FileNode>
+        <FileNode Name="display job wise number of employees.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>display job wise number of employees.sql</FullPath>
+        </FileNode>
+        <FileNode Name="display number of rows in table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>display number of rows in table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="display on which day india got independence.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>display on which day india got independence.sql</FullPath>
+        </FileNode>
+        <FileNode Name="display ranks on employees based on their salaries and highest paid employee should get 1st rank.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>display ranks on employees based on their salaries and highest paid employee should get 1st rank.sql</FullPath>
+        </FileNode>
+        <FileNode Name="display ranks on employees based on their salary. if salaries are same then ranking should be based on experience.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>display ranks on employees based on their salary. if salaries are same then ranking should be based on experience.sql</FullPath>
+        </FileNode>
+        <FileNode Name="display the format as ename earning sal.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>display the format as ename earning sal.sql</FullPath>
+        </FileNode>
+        <FileNode Name="dotnet11am emp table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>dotnet11am emp table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="drop table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>drop table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="droping or deleting column.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>droping or deleting column.sql</FullPath>
+        </FileNode>
+        <FileNode Name="employee name containing 4 characters.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>employee name containing 4 characters.sql</FullPath>
+        </FileNode>
+        <FileNode Name="employees joined in jan,apr,dec months.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>employees joined in jan,apr,dec months.sql</FullPath>
+        </FileNode>
+        <FileNode Name="employees joined in leap year.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>employees joined in leap year.sql</FullPath>
+        </FileNode>
+        <FileNode Name="employees joined on sunday.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>employees joined on sunday.sql</FullPath>
+        </FileNode>
+        <FileNode Name="employees name starts with and ends with same char.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>employees name starts with and ends with same char.sql</FullPath>
+        </FileNode>
+        <FileNode Name="explicitly inserting nulls.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>explicitly inserting nulls.sql</FullPath>
+        </FileNode>
+        <FileNode Name="fb table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>fb table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="generate emailid for employees.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>generate emailid for employees.sql</FullPath>
+        </FileNode>
+        <FileNode Name="getdate.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>getdate.sql</FullPath>
+        </FileNode>
+        <FileNode Name="group functions max.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>group functions max.sql</FullPath>
+        </FileNode>
+        <FileNode Name="group functions min.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>group functions min.sql</FullPath>
+        </FileNode>
+        <FileNode Name="group functions sum.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>group functions sum.sql</FullPath>
+        </FileNode>
+        <FileNode Name="identity.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>identity.sql</FullPath>
+        </FileNode>
+        <FileNode Name="implicitly inserting nulls.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>implicitly inserting nulls.sql</FullPath>
+        </FileNode>
+        <FileNode Name="increase sal by 20% and comm by 10% those working as salesman and joined in 1981 year.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>increase sal by 20% and comm by 10% those working as salesman and joined in 1981 year.sql</FullPath>
+        </FileNode>
+        <FileNode Name="increase the size of ename to 30.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>increase the size of ename to 30.sql</FullPath>
+        </FileNode>
+        <FileNode Name="insert multiple rows.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>insert multiple rows.sql</FullPath>
+        </FileNode>
+        <FileNode Name="logical operator AND.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>logical operator AND.sql</FullPath>
+        </FileNode>
+        <FileNode Name="logical operator OR,AND.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>logical operator OR,AND.sql</FullPath>
+        </FileNode>
+        <FileNode Name="logical operator OR.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>logical operator OR.sql</FullPath>
+        </FileNode>
+        <FileNode Name="mathematical function ceiling.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>mathematical function ceiling.sql</FullPath>
+        </FileNode>
+        <FileNode Name="mathematical function floor.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>mathematical function floor.sql</FullPath>
+        </FileNode>
+        <FileNode Name="mathematical function round.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>mathematical function round.sql</FullPath>
+        </FileNode>
+        <FileNode Name="mobilediary.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>mobilediary.sql</FullPath>
+        </FileNode>
+        <FileNode Name="movie table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>movie table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="movrew table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>movrew table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="number of employees joined on sunday.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>number of employees joined on sunday.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ORDER BY Clause.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ORDER BY Clause.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Read all databases information from SQL SERVER.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Read all databases information from SQL SERVER.sql</FullPath>
+        </FileNode>
+        <FileNode Name="read only systemdefined tables from kotturuvamshi database.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>read only systemdefined tables from kotturuvamshi database.sql</FullPath>
+        </FileNode>
+        <FileNode Name="read only userdefined tables from kotturuvamshi database.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>read only userdefined tables from kotturuvamshi database.sql</FullPath>
+        </FileNode>
+        <FileNode Name="relational operators.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>relational operators.sql</FullPath>
+        </FileNode>
+        <FileNode Name="rename column comm to bonus.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>rename column comm to bonus.sql</FullPath>
+        </FileNode>
+        <FileNode Name="rename table emp2 to emp3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>rename table emp2 to emp3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="replace.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>replace.sql</FullPath>
+        </FileNode>
+        <FileNode Name="replicate.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>replicate.sql</FullPath>
+        </FileNode>
+        <FileNode Name="retrieve all tables from kotturuvamshi database.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>retrieve all tables from kotturuvamshi database.sql</FullPath>
+        </FileNode>
+        <FileNode Name="retrieve all tables from master database.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>retrieve all tables from master database.sql</FullPath>
+        </FileNode>
+        <FileNode Name="retrieve all tables from model database.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>retrieve all tables from model database.sql</FullPath>
+        </FileNode>
+        <FileNode Name="round avg sal to highest integer.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>round avg sal to highest integer.sql</FullPath>
+        </FileNode>
+        <FileNode Name="round total sal to hundreds.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>round total sal to hundreds.sql</FullPath>
+        </FileNode>
+        <FileNode Name="save transaction.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>save transaction.sql</FullPath>
+        </FileNode>
+        <FileNode Name="special functions isnull.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>special functions isnull.sql</FullPath>
+        </FileNode>
+        <FileNode Name="special operator BETWEEN.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>special operator BETWEEN.sql</FullPath>
+        </FileNode>
+        <FileNode Name="special operator IN.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>special operator IN.sql</FullPath>
+        </FileNode>
+        <FileNode Name="special operator IS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>special operator IS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="special operator LIKE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>special operator LIKE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="store emailid in database.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>store emailid in database.sql</FullPath>
+        </FileNode>
+        <FileNode Name="student design.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>student design.sql</FullPath>
+        </FileNode>
+        <FileNode Name="substring.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>substring.sql</FullPath>
+        </FileNode>
+        <FileNode Name="transfer all employees from 10th to 20th dept.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>transfer all employees from 10th to 20th dept.sql</FullPath>
+        </FileNode>
+        <FileNode Name="truncate table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>truncate table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="update all employees commission to 500.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>update all employees commission to 500.sql</FullPath>
+        </FileNode>
+        <FileNode Name="update employees comm to 800 those working for 30th department.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>update employees comm to 800 those working for 30th department.sql</FullPath>
+        </FileNode>
+        <FileNode Name="update the gender column in emp table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>update the gender column in emp table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="userbase table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>userbase table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="userdata table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>userdata table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="using select retrieve only table structure when data is present.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>using select retrieve only table structure when data is present.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

@@ -1,0 +1,1 @@
+select upper(ename) as ename, sal from emp

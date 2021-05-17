@@ -1,0 +1,1 @@
+select replicate('*',5)

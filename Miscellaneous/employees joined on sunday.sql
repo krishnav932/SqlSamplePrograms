@@ -1,0 +1,2 @@
+select * from emp
+where datepart(dw,hiredate)=1

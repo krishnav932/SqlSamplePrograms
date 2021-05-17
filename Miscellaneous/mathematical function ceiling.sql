@@ -1,0 +1,1 @@
+select ceiling(3.1)

@@ -1,0 +1,1 @@
+select cast(10.5 as int)

@@ -1,0 +1,1 @@
+select datename(dw,'1947-08-15')

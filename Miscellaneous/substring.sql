@@ -1,0 +1,1 @@
+select substring('hello welcome',7,4)

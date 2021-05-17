@@ -3,7 +3,7 @@ create table tbleEmp
 empid tinyint,
 salary money,
 commission money,
-job varchar(10),
+job varchar(100),
 hiredate date,
 )
 
@@ -17,4 +17,12 @@ update tbleEmp
 set salary= salary + (salary*0.2), commission=commission+(commission*0.1)
 where job='salesman' and hiredate like '1981%'
 
+update tbleEmp
+set job= 'vice president' where hiredate > '2005-05-15'
+
 select * from tbleEmp
+
+alter table tbleEmp
+alter column job varchar(100)
+
+drop table tbleEmp

@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
-<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SamplePrograms">
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Joins">
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
         <ConnectionNode Name="COGNINE-62\SQLEXPRESS:COGNINE-62\pc">
-          <Created>2021-05-10T19:32:11.8422393+05:30</Created>
+          <Created>2021-05-13T12:07:26.1602315+05:30</Created>
           <Type>SQL</Type>
           <Server>COGNINE-62\SQLEXPRESS</Server>
           <UserName />
           <Authentication>Windows Authentication</Authentication>
-          <InitialDB />
+          <InitialDB>master</InitialDB>
           <LoginTimeout>30</LoginTimeout>
           <ExecutionTimeout>0</ExecutionTimeout>
           <ConnectionProtocol>NotSpecified</ConnectionProtocol>
@@ -19,65 +19,41 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="AlterDdl.sql">
+        <FileNode Name="CrossJoin.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>AlterDdl.sql</FullPath>
+          <FullPath>CrossJoin.sql</FullPath>
         </FileNode>
-        <FileNode Name="CreateDatabase.sql">
+        <FileNode Name="EquiJoin.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>CreateDatabase.sql</FullPath>
+          <FullPath>EquiJoin.sql</FullPath>
         </FileNode>
-        <FileNode Name="CreateDdl.sql">
+        <FileNode Name="NonEquiJoin.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>CreateDdl.sql</FullPath>
+          <FullPath>NonEquiJoin.sql</FullPath>
         </FileNode>
-        <FileNode Name="CreateTable.sql">
+        <FileNode Name="OuterJoin.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>CreateTable.sql</FullPath>
+          <FullPath>OuterJoin.sql</FullPath>
         </FileNode>
-        <FileNode Name="Datatypes.sql">
+        <FileNode Name="SelfJoin.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>Datatypes.sql</FullPath>
+          <FullPath>SelfJoin.sql</FullPath>
         </FileNode>
-        <FileNode Name="DeleteDml.sql">
+        <FileNode Name="Tables.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>DeleteDml.sql</FullPath>
-        </FileNode>
-        <FileNode Name="DropDdl.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>DropDdl.sql</FullPath>
-        </FileNode>
-        <FileNode Name="InsertDml.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>InsertDml.sql</FullPath>
-        </FileNode>
-        <FileNode Name="TruncateDdl.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>TruncateDdl.sql</FullPath>
-        </FileNode>
-        <FileNode Name="UpdateDml.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-62\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>COGNINE-62\SQLEXPRESS</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>UpdateDml.sql</FullPath>
+          <FullPath>Tables.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>

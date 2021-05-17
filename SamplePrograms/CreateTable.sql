@@ -8,3 +8,23 @@ HireDate date
 )
 
 
+select * from tblEmployees
+----------------------------
+
+create table example
+(
+nvarchartype nvarchar(20),
+varchartype varchar(20), 
+chartype char(20),
+nchartype nchar(20)
+)
+
+
+insert into example values('¥','¥','¥','¥')
+
+
+select * from example
+
+delete example
+
+drop table example

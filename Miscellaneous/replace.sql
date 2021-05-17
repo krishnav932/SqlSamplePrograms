@@ -1,0 +1,1 @@
+select replace('hello','l','z')

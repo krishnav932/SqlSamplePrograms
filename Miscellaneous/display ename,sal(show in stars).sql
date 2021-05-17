@@ -1,0 +1,1 @@
+select ename,replicate('*',len(sal)) from emp
